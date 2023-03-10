@@ -48,7 +48,7 @@ The intention is DECA can use these suggestions to more easily make targeted, sp
 
 ## User Interface
 
-The user interface is built using the Unity Game Engine. That gives a lot of inside as to how the UI can work, as Unity uses a standard collection of UI elements and practices. Note that many parts of the UI are actually part of the database -- the links from icons to the skills/abilities/items that use them are considered Database, however the art itself is considered User Interface.
+The user interface is built using the Unity Game Engine. That gives a lot of inside as to how the UI can work, as Unity uses a standard collection of UI elements and practices.
 
 Suggestions here must be formatted as follows:
 
